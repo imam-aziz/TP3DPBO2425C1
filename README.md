@@ -155,6 +155,6 @@
 ---
 
 ### Java
-![JAVA01](java/Dokumentasi/JAVA01.png)  
-![JAVA02](java/Dokumentasi/JAVA02.png)  
-![JAVA03](java/Dokumentasi/JAVA03.png)  
+![JAVA01](jawa/Dokumentasi/JAVA01.png)  
+![JAVA02](jawa/Dokumentasi/JAVA02.png)  
+![JAVA03](jawa/Dokumentasi/JAVA03.png)  
